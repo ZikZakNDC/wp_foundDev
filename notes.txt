@@ -1,0 +1,3 @@
+GIT  repository
+git remote add origin https://github.com/ZikZakNDC/wp_foundDev.git
+git push -u origin master

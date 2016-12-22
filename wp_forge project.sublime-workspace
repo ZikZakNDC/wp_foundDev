@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "package install",
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Package Control: Remove Channel"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/WEBSITES/portfolio.dev/wp-content/themes/wp-forge"
+	],
+	"file_history":
+	[
+		"/E/WEBSITES/portfolio.dev/wp-content/themes/JointsWP-master/assets/functions/menu.php",
+		"/E/WEBSITES/portfolio.dev/wp-content/themes/JointsWP-master/node_modules/bower/lib/node_modules/tar-stream/pack.js",
+		"/E/WEBSITES/portfolio.dev/wp-content/themes/JointsWP-master/extra.txt",
+		"/E/WEBSITES/portfolio.dev/wp-content/themes/JointsWP-master/JointsWP_Sublime",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/2.1 grid.html",
+		"/C/Users/GCB/AppData/Roaming/Sublime Text 3/Packages/Emmet/README.md",
+		"/C/Users/GCB/AppData/Roaming/Sublime Text 3/Packages/Package Control/readme.md",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/4.6 X chap-4-solution X.html",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/css/app.css",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/5.5 interchange.html",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/index.html",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/css/foundation.css",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/js/vendor/modernizr.js",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/2.6 nested-grid.html",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/2.7 block-grid.html",
+		"/C/Users/GCB/Desktop/Web_Development/Linda WEB DEV/04 FOUNDATION/Zurb Foundation (Up  & Running with ...)/UaR Foundation5/2.10 chap-2-challenge.html",
+		"/C/Users/GCB/Desktop/foundationtest/foundationdev/scss/app.scss",
+		"/C/Users/GCB/Desktop/foundationtest/foundationdev/index.html",
+		"/C/Users/GCB/Desktop/foundationtest/foundationdev/scss/_settings.scss",
+		"/C/Users/GCB/Desktop/foundationtest/foundationdev/gulpfile.js",
+		"/C/Users/GCB/Desktop/foundationtest/foundationdev/js/app.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_template_part",
+			"a",
+			"><",
+			"li class",
+			"div",
+			"    <div class=\"row\">\n",
+			"head"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 254.0
+	},
+	"pinned_build_system": "",
+	"project": "wp_forge project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"2.6 nested-grid.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\WEBSITES\\portfolio.dev\\wp-content\\themes\\JointsWP-master\\JointsWP_Sublime.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 380.0,
+		"last_filter": "hh",
+		"selected_items":
+		[
+			[
+				"hh",
+				"hashchange"
+			],
+			[
+				"",
+				"button-bar"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
